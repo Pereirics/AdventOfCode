@@ -33,4 +33,3 @@ for line in lines:
 	sum += number
 
 print(sum)
-
